@@ -1,2 +1,4 @@
-# speller-CS50-
-Spell check a file
+# speller (CS50)
+
+##### CS50 Week 5 Problem Set
+* Spell check a file
